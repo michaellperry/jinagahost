@@ -1,0 +1,31 @@
+{
+  "name": "jinagahost",
+  "version": "1.0.0",
+  "description": "Universal back end",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chain-middleware": "^1.0.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "jinaga": "^1.7.5",
+    "passport": "^0.3.2",
+    "passport-azure-ad": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/michaellperry/jinagahost.git"
+  },
+  "author": "Michael L Perry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaellperry/jinagahost/issues"
+  },
+  "homepage": "https://github.com/michaellperry/jinagahost#readme"
+}
